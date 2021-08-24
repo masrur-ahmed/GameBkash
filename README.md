@@ -2,7 +2,9 @@
 
 In order to run the repository you will need to install: 
 1. Postman
-2. Jdbc
+2. Jdbc\
+And of course spring boot. 
+
 
 The repo uses in memory H2 database. So you dont need to create any database for this. \
 At first please change the artifact id and name or else please change the folder name to "GameBkash" to "BKASH".\
