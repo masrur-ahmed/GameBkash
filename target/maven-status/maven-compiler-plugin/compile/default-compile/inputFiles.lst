@@ -1,0 +1,10 @@
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/entity/Client.java
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/controller/ClientController.java
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/controller/PlayerController.java
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/BkashApplication.java
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/repository/ClientRepo.java
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/entity/Game.java
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/repository/PlayerRepo.java
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/controller/GameController.java
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/entity/Player.java
+/home/xoro/Documents/Spring/BKASH/src/main/java/com/example/demo/repository/GameRepo.java
