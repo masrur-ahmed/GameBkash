@@ -44,4 +44,11 @@ and body as same as the first one,
 11. #GetRequest localhost:8083/generateBillForPlayer/{playerID}\
 
 
+
 in order to check the database: http://localhost:8083/h2-console/
+
+
+Things to do soon to update the code: 
+1. Include service layer 
+2. Move to dynamodb
+3. Store the HttpSession in Database
