@@ -49,6 +49,6 @@ in order to check the database: http://localhost:8083/h2-console/
 
 
 Things to do soon to update the code: 
-1. Include service layer  (Done)
+1. Include service layer  (60% Donee)
 2. Move to dynamodb
 3. Store the HttpSession in Database
